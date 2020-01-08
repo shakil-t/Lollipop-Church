@@ -1,7 +1,8 @@
 # Lollipop-Church
-Lollipop Church is an Esoteric programming language, designed and developed by Shakila Tayefeh (https://github.com/shakil-t) on April 7, 2019. This programming language in which programs look like a Russian guide book is written in Python.
+Lollipop Church is an Esoteric programming language, designed and developed by Shakila Tayefeh @shakil-t on April 7, 2019. This programming language in which programs look like a Russian guide book is written in Python.
 The name of this programming language is obtained from the most iconic symbol of Russia, St. Basil's Cathedral. The fact that the architecture and colors of this church prompt a lollipop, has been an inspiration for the developer.
 In Lollipop Church almost every keyword not only represents a Russian place, story, etc. but also is tailored to its concept. Shall we go through the structures?
+
 •	Comment
   Single-line comments are created by beginning a line with “Samovar” followed by a colon.
   Samovar : Lollipop Church
