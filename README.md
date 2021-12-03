@@ -55,7 +55,7 @@ A symbol of the union of two nations, Kievskaya is also the addition keyword in 
   - ==:\
   StIsaacCatherdal [ x , y ] returns true if x and y are equal. 
 
-  - !=:\
+  - \!=:\
   SpilledBlood [ x , y ] returns true if x and y are not equal.
 
   - AND:\
