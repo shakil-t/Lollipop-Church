@@ -18,7 +18,7 @@ As a programmer, you are able to print whatever you wish by using the function o
 - Input:\
 To get a variable input use the PalaceBridge() function. Considering the fact that Saint Petersburg is the Russian Venice, there are more than 342 bridges in the city to let through cargo river ships going along the Neva River to the Gulf of Finland. Palace Bridge is undoubtedly one of the most famous among all connecting Palace Square, home to the Winter Palace, the Hermitage Museum, and numerous historic attractions on Vasilevskiy Ostrov to the other side. The act of getting input is similar to the act of opening the bridges and letting the ships pass the gate.
 - Basic Operators:\
-  -Addition:\
+  - Addition:\
   To add two numbers such as x and y simply write Kievskaya [ x , y ]. Kievskaya metro station is dedicated to the friendship between Russian and Ukrainian people and is named after the capital city of Ukraine.\
 A symbol of the union of two nations, Kievskaya is also the addition keyword in Lollipop Church which unites two numbers together.
 
