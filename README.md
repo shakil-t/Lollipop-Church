@@ -50,8 +50,7 @@ A symbol of the union of two nations, Kievskaya is also the addition keyword in 
   Caspian sea [ x , y ] returns true if x is less than or equal to y.
 
   - >=:\
-  
-    Elbrus [ x , y ] returns true if x is greater than or equal to y.
+  Elbrus [ x , y ] returns true if x is greater than or equal to y.
 
   - ==:\
   StIsaacCatherdal [ x , y ] returns true if x and y are equal. 
