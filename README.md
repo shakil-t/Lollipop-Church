@@ -9,14 +9,10 @@ In case you are tired of coding, you may take a break and enjoy a cup of tea mad
 Talking about Russia may not be possible without mentioning ballet. Originated in Italy and France, ballet has a special place in the hearts of most Russians. If you would like to explain things in more detail, you might want to create a multiline comment simply by writing Ballet and putting your comment in double quotations.\
 ```Ballet " Lollipop Church is an Esoteric
   programming language "```\
-
-•	Output
-
-  As a programmer, you are able to print whatever you wish by using the function of GulfofFinald ( ). Please note that you can not print more than one variable or result of operation each time. This keyword illustrates the Gulf of Finland as a gate.
-
-•	Input
-
-  To get a variable input use the PalaceBridge() function. Considering the fact that Saint Petersburg is the Russian Venice, there are more than 342 bridges in the city to let through cargo river ships going along the Neva River to the Gulf of Finland. Palace Bridge is undoubtedly one of the most famous of them connecting Palace Square, home to the Winter Palace, the Hermitage Museum, and numerous historic attractions on Vasilevskiy Ostrov with the other side. The act of getting input is similar to the act of opening the bridges and letting the ships pass the gate.
+- Output:\
+As a programmer, you are able to print whatever you wish by using the function of FinlandGulf ( ). Please note that you can not print more than one variable or result of operation each time. This keyword illustrates the Gulf of Finland as an external gate.
+-Input:\
+To get a variable input use the PalaceBridge() function. Considering the fact that Saint Petersburg is the Russian Venice, there are more than 342 bridges in the city to let through cargo river ships going along the Neva River to the Gulf of Finland. Palace Bridge is undoubtedly one of the most famous of them connecting Palace Square, home to the Winter Palace, the Hermitage Museum, and numerous historic attractions on Vasilevskiy Ostrov with the other side. The act of getting input is similar to the act of opening the bridges and letting the ships pass the gate.
 
 •	Basic Operators
 
