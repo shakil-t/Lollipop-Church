@@ -4,7 +4,7 @@ The name of this programming language is obtained from the most iconic symbol of
 In Lollipop Church almost every keyword not only represents a Russian place, story, etc. but also is tailored to its concept. Shall we go through the structures?
 - Comment:\
 Single-line comments are created by beginning a line with “Samovar” followed by a colon.\
-'''Samovar: Lollipop Church'''\
+```Samovar: Lollipop Church```\
 In case you are tired of coding, you may take a break and enjoy a cup of tea made by samovar.\
 Talking about Russia may not be possible without mentioning ballet. Originated in Italy and France, ballet has a special place in the hearts of most Russians. If you would like to explain things in more detail, you might want to create a multiline comment simply by writing Ballet and putting your comment in double quotations.\
 '''Ballet " Lollipop Church is an Esoteric
