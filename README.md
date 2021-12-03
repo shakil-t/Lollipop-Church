@@ -64,42 +64,47 @@ A symbol of the union of two nations, Kievskaya is also the addition keyword in 
   - OR:\
   Gum [ x , y ]  returns true if either of x or y is true.
 
-•	Variable
-
+- Variable:\
   Note that variable names must start with a lower case letter.
-  o	Integer
-    To define an integer like x=7 simply PeacockClock x ~ 7.
+  - Integer:\
+  To define an integer like x=7 simply do as the following:\
+  ```
+  PeacockClock x ~ 7
+  ```
 
-  o	Float
-  
-    To define a float like y=-85.126 simply type PazyrykCarpet y ~ -85.126.
+  - Float:'\
+  To define a float like y=-85.126 simply do as the following:
+  ```
+  PazyrykCarpet y ~ -85.126
+  ```
 
-  o	String 
-  
-    To define a string simply type AmberRoom s ~ ‘ Shakila ‘. If you would like to define an empty string just leave two quotations ‘ ‘.
+  - String:\
+  To define a string simply type AmberRoom s ~ ‘ Shakila ‘. If you would like to define an empty string just leave two quotations ‘ ‘.
 
-•	Array 
-
+- Array:\
   To define an array like b use the structure below:
+  ```
   Hermitage b ( 0 ) ~ PalaceBridge ( )
   Hermitage b ( 1 ) ~ 12.962
   Hermitage b ( 2 ) ~ Matryoshka [ 49 , 7 ]
+  ```
 
-•	Loop
-
+- Loop:\
   To define a loop use the structure below:
+  ```
   RedSquare « 
   Statement »
   AlexanderGarden ( Condition )
-  The structure illustrates the march of soldiers from Red Square to the Tomb of The Unknown Soldier in Alexander Garden, Moscow which occurs every two hours and properly suits the concept of loops.
+  ```
+The structure illustrates the march of soldiers from Red Square to the Tomb of The Unknown Soldier in Alexander Garden, Moscow which occurs every two hours and properly suits the concept of loops.
 
-•	Condition
-
-  Use the structure below to check if a condition is true or not:
-  VictoryPark ( Condition ) «
+- Condition:\
+Use the structure below to check if a condition is true or not:
+```
+VictoryPark ( Condition ) «
 
   Block of code
 
   »
-
-Up to now a lexical analyzer and a parser has been developed for Lollipop Church and soon you will be able to code in this programming language. For further information or any suggestion email me at shakila.tayefe@yahoo.com.
+```
+Part of this project was developed for the course Compiler in 2019 at Alzahra University and as a result it can be published partially. Furthermore, I welcome suggestions and collaborations.
