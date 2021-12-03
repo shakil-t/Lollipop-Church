@@ -26,56 +26,44 @@ A symbol of the union of two nations, Kievskaya is also the addition keyword in 
     To subtract two numbers such as x and y type Novodevichy [ x , y ]. Novodevichy Cemetery is the home to some of the most notable graves such as Chekhov and Gogol. It is designated as the subtraction keyword since it evokes a loss.
 
   - Multiplication:\
-  
-    To multiply two numbers such as x and y simply type ScarletSails [ x, y ]. Have you read the “Scarlet Sails” novel by Alexander         Grin? The story takes place in a small fishing village where Assol the daughter of a former seaman runs into an old man who claims to be a wizard and promises the girl that one day a prince will come on a ship with scarlet sails to carry her away. The villagers tease her but Assol believes her dream will eventually come true. Arthur Grey the captain of a merchant’s vessel spies Assol sleeping in the forest and falls in love with her. After learning of Assol’s dream he sets about to make it come true. Since love is the multiplication of patience and belief ScarletSails is the multiplication keyword in Lollipop Church. This keyword was suggested by Mehrnaz Ansari. 
+    To multiply two numbers such as x and y simply type ScarletSails [ x , y ]. Have you read the “Scarlet Sails” novel by Alexander Grin? The story takes place in a small fishing village where Assol the daughter of a former seaman runs into an old man who claims to be a wizard and promises the girl that one day a prince will come on a ship with scarlet sails to carry her away. The villagers tease her but Assol believes her dream will eventually come true. Arthur Grey the captain of a merchant’s vessel spies Assol sleeping in the forest and falls in love with her. After learning of Assol’s dream he sets about to make it come true. Since love is the multiplication of patience and belief ScarletSails is the multiplication keyword in Lollipop Church. This keyword was suggested by Mehrnaz Ansari. 
 
-   o	Division 
-   
-    To divide a number such as x by another one such as y simply type Matryoshka [ x, y].
+   - Division:\
+    To divide a number such as x by another one such as y simply type Matryoshka [ x , y].
 
-  o	Power
-  
-    To raise a number such as x to the power of an exponent such as y simply type Peterhof [ x, y ]. Owing to the fact that Peterhof was commissioned by Peter the Great to show power as a direct response to the Palace of Versailles it is the power keyword.
+  - Power:\
+    To raise a number such as x to the power of an exponent such as y simply type Peterhof [ x , y ]. Owing to the fact that Peterhof was commissioned by Peter the Great to show power as a direct response to the Palace of Versailles it is the power keyword.
 
-  o	Quotient
-  
-    To find the quotient of a division simply type MoscowRiver [ x, y].
+  - Quotient:\
+  To find the quotient of a division simply type MoscowRiver [ x , y].
 
-  o	Remainder
-  
-    To find the remainder of a division simply type NevaRiver [ x, y ].
+  - Remainder:\
+  To find the remainder of a division simply type NevaRiver [ x , y ].
 
-  o	<
-  
-    Yakutsk [ x, y ] returns true if x is less than y.
+  - <:\
+  Yakutsk [ x , y ] returns true if x is less than y.
 
-  o	>
-  
-    SparrowHills [ x, y ] returns true if x is greater than y.
+  - >:\
+  SparrowHills [ x , y ] returns true if x is greater than y.
 
-  o	<=
-  
-    Caspian sea [ x , y ] returns true if x is less than or equal to y.
+  - <=:\
+  Caspian sea [ x , y ] returns true if x is less than or equal to y.
 
-  o	>=
+  - >=:\
   
     Elbrus [ x , y ] returns true if x is greater than or equal to y.
 
-  o	==
-  
-    StIsaacCatherdal [ x , y ] returns true if x and y are equal. 
+  - ==:\
+  StIsaacCatherdal [ x , y ] returns true if x and y are equal. 
 
-  o	!=
-  
-    SpilledBlood [ x , y ] returns true if x and y are not equal.
+  - !=:\
+  SpilledBlood [ x , y ] returns true if x and y are not equal.
 
-  o	AND
-  
-    GorkyPark [ x , y ] returns true if both x and are true.
+  - AND:\
+  GorkyPark [ x , y ] returns true if both x and are true.
 
-  o	OR
-  
-    Gum [ x , y ]  returns true if either of x or y is true.
+  - OR:\
+  Gum [ x , y ]  returns true if either of x or y is true.
 
 •	Variable
 
